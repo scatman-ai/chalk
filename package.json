@@ -51,16 +51,16 @@
 		"text"
 	],
 	"devDependencies": {
-		"@types/node": "^16.11.10",
-		"ava": "^3.15.0",
-		"c8": "^7.10.0",
-		"color-convert": "^2.0.1",
-		"execa": "^6.0.0",
-		"log-update": "^5.0.0",
-		"matcha": "^0.7.0",
-		"tsd": "^0.19.0",
-		"xo": "^0.57.0",
-		"yoctodelay": "^2.0.0"
+		"@types/node": "^18.17.19",
+		"ava": "^5.2.0",
+		"c8": "^8.0.0",
+		"color-convert": "^3.0.0",
+		"execa": "^7.1.1",
+		"log-update": "^6.0.0",
+		"matcha": "^0.8.0",
+		"tsd": "^0.25.0",
+		"xo": "^0.56.0",
+		"yoctodelay": "^2.1.0"
 	},
 	"xo": {
 		"rules": {
